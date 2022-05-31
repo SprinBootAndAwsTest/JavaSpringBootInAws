@@ -1,0 +1,145 @@
+2022-04-27 13:32:05,908 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.us-east-1.amazonaws.com
+2022-04-27 13:32:05,909 [DEBUG] SQS client initialized with endpoint https://sqs.us-east-1.amazonaws.com
+2022-04-27 13:32:05,909 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.us-east-1.amazonaws.com
+2022-04-27 13:32:05,909 [DEBUG] Enabled single threading mode.
+2022-04-27 13:32:05,909 [DEBUG] Creating /var/lib/cfn-hup/data
+2022-04-27 13:32:05,927 [INFO] No umask value specified in config file. Using the default one: 0o22
+2022-04-27 13:32:06,839 [INFO] Refreshing listener credentials
+2022-04-27 13:32:06,975 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 13:32:34,555 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: a5014190-b15a-4b3a-a167-0c6fef2f41f6)
+2022-04-27 13:32:34,555 [INFO] Running action for aws-eb-command-handler
+2022-04-27 13:32:57,792 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2022-04-27 13:37:18,278 [INFO] command processing is alive.
+2022-04-27 13:42:18,768 [INFO] command processing is alive.
+2022-04-27 13:43:57,655 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: e0249fef-5545-402a-a38c-b4e6ffd1bf51)
+2022-04-27 13:43:57,655 [INFO] Running action for aws-eb-command-handler
+2022-04-27 13:44:02,542 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2022-04-27 13:47:23,000 [INFO] command processing is alive.
+2022-04-27 13:52:23,444 [INFO] command processing is alive.
+2022-04-27 13:57:23,947 [INFO] command processing is alive.
+2022-04-27 14:02:05,975 [INFO] Refreshing listener credentials
+2022-04-27 14:02:06,079 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 14:02:24,385 [INFO] command processing is alive.
+2022-04-27 14:03:22,664 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: aceb4821-c5eb-4f79-969b-8f9a00a45b44)
+2022-04-27 14:03:22,664 [INFO] Running action for aws-eb-command-handler
+2022-04-27 14:03:28,345 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2022-04-27 14:07:29,007 [INFO] command processing is alive.
+2022-04-27 14:12:29,512 [INFO] command processing is alive.
+2022-04-27 14:17:29,949 [INFO] command processing is alive.
+2022-04-27 14:22:30,445 [INFO] command processing is alive.
+2022-04-27 14:24:08,630 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: 86e633cb-3c6c-4c5e-a8b6-a1bf2bcb150f)
+2022-04-27 14:24:08,630 [INFO] Running action for aws-eb-command-handler
+2022-04-27 14:24:14,066 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2022-04-27 14:27:34,648 [INFO] command processing is alive.
+2022-04-27 14:29:18,005 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: c7e994be-58b2-4171-a772-35705cabad78)
+2022-04-27 14:29:18,005 [INFO] Running action for aws-eb-command-handler
+2022-04-27 14:29:23,431 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2022-04-27 14:32:05,080 [INFO] Refreshing listener credentials
+2022-04-27 14:32:05,172 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 14:32:43,978 [INFO] command processing is alive.
+2022-04-27 14:37:44,501 [INFO] command processing is alive.
+2022-04-27 14:42:44,935 [INFO] command processing is alive.
+2022-04-27 14:47:45,360 [INFO] command processing is alive.
+2022-04-27 14:52:46,020 [INFO] command processing is alive.
+2022-04-27 14:57:46,440 [INFO] command processing is alive.
+2022-04-27 15:02:04,173 [INFO] Refreshing listener credentials
+2022-04-27 15:02:04,294 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 15:02:46,890 [INFO] command processing is alive.
+2022-04-27 15:07:47,470 [INFO] command processing is alive.
+2022-04-27 15:12:47,929 [INFO] command processing is alive.
+2022-04-27 15:17:48,369 [INFO] command processing is alive.
+2022-04-27 15:22:48,799 [INFO] command processing is alive.
+2022-04-27 15:27:49,282 [INFO] command processing is alive.
+2022-04-27 15:32:03,294 [INFO] Refreshing listener credentials
+2022-04-27 15:32:03,390 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 15:32:49,781 [INFO] command processing is alive.
+2022-04-27 15:37:50,302 [INFO] command processing is alive.
+2022-04-27 15:42:50,740 [INFO] command processing is alive.
+2022-04-27 15:47:51,181 [INFO] command processing is alive.
+2022-04-27 15:52:51,659 [INFO] command processing is alive.
+2022-04-27 15:57:52,212 [INFO] command processing is alive.
+2022-04-27 16:02:02,390 [INFO] Refreshing listener credentials
+2022-04-27 16:02:02,493 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 16:02:52,650 [INFO] command processing is alive.
+2022-04-27 16:07:53,139 [INFO] command processing is alive.
+2022-04-27 16:12:53,731 [INFO] command processing is alive.
+2022-04-27 16:17:54,159 [INFO] command processing is alive.
+2022-04-27 16:22:54,646 [INFO] command processing is alive.
+2022-04-27 16:27:55,117 [INFO] command processing is alive.
+2022-04-27 16:32:01,493 [INFO] Refreshing listener credentials
+2022-04-27 16:32:01,619 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 16:32:55,544 [INFO] command processing is alive.
+2022-04-27 16:37:55,980 [INFO] command processing is alive.
+2022-04-27 16:42:56,420 [INFO] command processing is alive.
+2022-04-27 16:47:56,980 [INFO] command processing is alive.
+2022-04-27 16:52:57,412 [INFO] command processing is alive.
+2022-04-27 16:57:57,828 [INFO] command processing is alive.
+2022-04-27 17:02:00,620 [INFO] Refreshing listener credentials
+2022-04-27 17:02:00,706 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 17:02:58,427 [INFO] command processing is alive.
+2022-04-27 17:07:58,968 [INFO] command processing is alive.
+2022-04-27 17:12:59,374 [INFO] command processing is alive.
+2022-04-27 17:17:59,863 [INFO] command processing is alive.
+2022-04-27 17:23:00,290 [INFO] command processing is alive.
+2022-04-27 17:28:00,824 [INFO] command processing is alive.
+2022-04-27 17:31:59,707 [INFO] Refreshing listener credentials
+2022-04-27 17:31:59,796 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 17:33:01,410 [INFO] command processing is alive.
+2022-04-27 17:38:01,942 [INFO] command processing is alive.
+2022-04-27 17:43:02,482 [INFO] command processing is alive.
+2022-04-27 17:48:02,923 [INFO] command processing is alive.
+2022-04-27 17:53:03,464 [INFO] command processing is alive.
+2022-04-27 17:58:03,976 [INFO] command processing is alive.
+2022-04-27 18:01:58,797 [INFO] Refreshing listener credentials
+2022-04-27 18:01:58,887 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 18:03:04,634 [INFO] command processing is alive.
+2022-04-27 18:04:04,635 [WARNING] Timeout of 60 seconds breached
+2022-04-27 18:04:04,635 [ERROR] Client-side timeout
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/cfnbootstrap/util.py", line 189, in _retry
+    return f(*args, **kwargs)
+  File "/usr/lib/python3.7/site-packages/cfnbootstrap/util.py", line 263, in _timeout
+    "Execution did not succeed after %s seconds" % duration)
+cfnbootstrap.util.TimeoutError
+2022-04-27 18:08:05,642 [INFO] command processing is alive.
+2022-04-27 18:13:06,078 [INFO] command processing is alive.
+2022-04-27 18:18:06,514 [INFO] command processing is alive.
+2022-04-27 18:23:07,002 [INFO] command processing is alive.
+2022-04-27 18:28:07,510 [INFO] command processing is alive.
+2022-04-27 18:31:57,887 [INFO] Refreshing listener credentials
+2022-04-27 18:31:57,991 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 18:33:07,928 [INFO] command processing is alive.
+2022-04-27 18:38:08,469 [INFO] command processing is alive.
+2022-04-27 18:43:08,929 [INFO] command processing is alive.
+2022-04-27 18:48:09,476 [INFO] command processing is alive.
+2022-04-27 18:53:09,894 [INFO] command processing is alive.
+2022-04-27 18:58:10,370 [INFO] command processing is alive.
+2022-04-27 19:01:56,991 [INFO] Refreshing listener credentials
+2022-04-27 19:01:57,083 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 19:03:10,927 [INFO] command processing is alive.
+2022-04-27 19:08:11,353 [INFO] command processing is alive.
+2022-04-27 19:13:11,883 [INFO] command processing is alive.
+2022-04-27 19:18:12,379 [INFO] command processing is alive.
+2022-04-27 19:23:12,871 [INFO] command processing is alive.
+2022-04-27 19:28:13,346 [INFO] command processing is alive.
+2022-04-27 19:31:56,084 [INFO] Refreshing listener credentials
+2022-04-27 19:31:56,171 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 19:33:13,887 [INFO] command processing is alive.
+2022-04-27 19:38:14,394 [INFO] command processing is alive.
+2022-04-27 19:43:15,072 [INFO] command processing is alive.
+2022-04-27 19:48:15,500 [INFO] command processing is alive.
+2022-04-27 19:53:15,983 [INFO] command processing is alive.
+2022-04-27 19:58:16,532 [INFO] command processing is alive.
+2022-04-27 20:01:55,171 [INFO] Refreshing listener credentials
+2022-04-27 20:01:55,283 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 20:03:16,991 [INFO] command processing is alive.
+2022-04-27 20:08:17,460 [INFO] command processing is alive.
+2022-04-27 20:13:17,921 [INFO] command processing is alive.
+2022-04-27 20:18:18,351 [INFO] command processing is alive.
+2022-04-27 20:23:18,767 [INFO] command processing is alive.
+2022-04-27 20:28:19,333 [INFO] command processing is alive.
+2022-04-27 20:31:54,284 [INFO] Refreshing listener credentials
+2022-04-27 20:31:54,366 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2022-04-27 20:33:19,761 [INFO] command processing is alive.
+2022-04-27 20:36:55,058 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: f1568e34-5bb1-4e9b-acdd-200fb36019e9)
+2022-04-27 20:36:55,058 [INFO] Running action for aws-eb-command-handler
